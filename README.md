@@ -314,7 +314,7 @@ Through this project, I gained practical experience in
 
 # 👩‍💻 Author
 
-**Rohini Madhu**
+**Rohini**
 
 Aspiring Data Scientist
 
